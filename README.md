@@ -1,5 +1,9 @@
 ### Hi there 👋
+I'm Xiyue,welcome to my space.
 
+🔭 I’m currently studying in CQUPT
+🌱 I’m currently learning Front-end.
+📫 How to reach me: QQ-2859439384
 <!--
 **xiyueyezibile/xiyueyezibile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
