@@ -14,11 +14,11 @@ I'd like to do project that has relation to frontend. :ghost:
 :star: Here are some projects that I'm working on:
 - [DepSpy](https://github.com/DepSpy/depspy)
 
-<details>
-<summary>:trophy: Github Stats</summary>
+<!-- <details> -->
+<!-- <summary>:trophy: Github Stats</summary> -->
 <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=xiyueyezibile">
 <img src="https://github-profile-trophy.vercel.app/?username=xiyueyezibile">
-</details>
+<!-- </details> -->
 
 <br>
 
