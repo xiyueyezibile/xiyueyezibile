@@ -13,14 +13,7 @@ I'd like to do project that has relation to anime. :ghost:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 :star: Here are some projects that I'm working on:
-- [Frontier of Hell](https://github.com/moepoi/Frontier-of-Hell)
-- [Kitchen Counts](https://github.com/moepoi/Kitchen_Counts)
-- [Nekoya](https://github.com/Nekoya-Site)
-- [Easy Learn](https://github.com/Easy-Learn/App/releases/tag/v1.0.1)
-- [Neonime App](https://install.appcenter.ms/users/moepoi/apps/neonime/distribution_groups/public)
-- [Nepgear](https://t.me/NepgearBot)
-- [WhoisBot](https://t.me/WhoisBot)
-- [Moe API](https://beta.moe.team)
+- [DepSpy](https://github.com/DepSpy/depspy)
 
 <details>
 <summary>:trophy: Github Stats</summary>
@@ -30,22 +23,8 @@ I'd like to do project that has relation to anime. :ghost:
 
 <br>
 
-<details>
-<summary>:bar_chart: Recent Anilist Activity</summary>
-  
-<!-- anilist_activity starts -->
-* [Plans to watch None](https://anilist.co/activity/656105379) of [Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season](https://anilist.co/anime/171110)
-* [Watched episode 23](https://anilist.co/activity/647759142) of [Cang Yuan Tu](https://anilist.co/anime/155244)
-* [Watched episode 32 - 33](https://anilist.co/activity/647759068) of [Gaishi Dizun](https://anilist.co/anime/155321)
-* [Watched episode 364 - 365](https://anilist.co/activity/647759051) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [Watched episode 7](https://anilist.co/activity/647505185) of [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://anilist.co/anime/154214)
-<!-- anilist_activity ends -->
 
-</details>
 
-<details>
-<summary>:tv: List Favorites Anime</summary>
-  
 <!-- favorites_anime starts -->
 * [Ze Tian Ji](https://anilist.co/anime/101409)
 * [Ze Tian Ji 2](https://anilist.co/anime/102165)
@@ -77,49 +56,10 @@ I'd like to do project that has relation to anime. :ghost:
 </details>
 
 <details>
-<summary>:book: List Favorites Manga</summary>
-  
-<!-- favorites_manga starts -->
-<!-- favorites_manga ends -->
 
-</details>
 
-<details>
-<summary>:girl: List Favorites Character</summary>
-  
-<!-- favorites_characters starts -->
-* [Mahiru Shiina](https://anilist.co/character/195602)
-* [Mini Yaemori](https://anilist.co/character/153703)
-* [Loo](https://anilist.co/character/293202)
-* [Mukuro Hoshimiya](https://anilist.co/character/157109)
-* [Akari Watanabe](https://anilist.co/character/191672)
-* [Misaki Shokuhou](https://anilist.co/character/40136)
-* [Kuon](https://anilist.co/character/126823)
-* [Vladilena Milizé](https://anilist.co/character/141061)
-* [Yor Forger](https://anilist.co/character/138102)
-* [Chizuru Ichinose](https://anilist.co/character/128106)
-* [Celia Claire](https://anilist.co/character/161678)
-* [Kyouko Hori](https://anilist.co/character/66171)
-* [Nagisa Minase](https://anilist.co/character/162885)
-* [Sayu Ogiwara](https://anilist.co/character/127925)
-* [Ravel Phenex](https://anilist.co/character/58341)
-* [Yuuko Yoshida](https://anilist.co/character/141461)
-* [Ziyu Zhou](https://anilist.co/character/234726)
-* [Angelina Kudou Shields](https://anilist.co/character/128377)
-* [Ninym Ralei](https://anilist.co/character/206374)
-* [Marin Kitagawa](https://anilist.co/character/133676)
-* [Holo](https://anilist.co/character/7373)
-* [Ayako Kuroba](https://anilist.co/character/200612)
-* [Nepgear](https://anilist.co/character/49927)
-* [Jibril](https://anilist.co/character/87887)
-<!-- favorites_characters ends -->
 
-</details>
 
 Feel free to contact me :yum:
 <br><br>
-<a href="https://t.me/moepoi" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea"></a>
-<a rel="me" href="https://moe.onl/@moepoi" target="_blank"><img src="https://img.shields.io/badge/Mastodon-%40moepoi-blueviolet"></a>
-<a href="https://linkedin.com/in/moepoi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-moepoi-informational"></a>
-<a href="mailto:moe@poi.lol"><img src="https://img.shields.io/badge/Email-moe%40poi.lol-orange"></a>
-<a href="https://moepoi.dev" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-moepoi.dev-red"></a>
+* [Juejin](https://juejin.cn/user/2159893581924631)
