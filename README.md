@@ -14,7 +14,7 @@ I'd like to do project that has relation to frontend. :ghost:
 :star: Here are some projects that I'm working on:
 - [DepSpy](https://github.com/DepSpy/depspy)
 
-* 实习经历
+### 实习经历
   * 深迈科技 前端开发实习生  2022.04 - 至今
     * 负责官网web、h5以及小程序端开发
 
