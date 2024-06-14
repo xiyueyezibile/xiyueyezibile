@@ -6,10 +6,10 @@ I'd like to do project that has relation to frontend. :ghost:
 
 :page_with_curl: I'm currently learning:
 <br><br>
-![Vue](https://img.shields.io/badge/Vue)
-![React](https://img.shields.io/badge/React)
-![Typescript](https://img.shields.io/badge/Typescript)
-![Vite](https://img.shields.io/badge/Vite)
+![Vue](https://img.shields.io/badge/Vue-8A2BE2)
+![React](https://img.shields.io/badge/React-8A2BE2)
+![Typescript](https://img.shields.io/badge/Typescript-8A2BE2)
+![Vite](https://img.shields.io/badge/Vite-8A2BE2)
 
 :star: Here are some projects that I'm working on:
 - [DepSpy](https://github.com/DepSpy/depspy)
