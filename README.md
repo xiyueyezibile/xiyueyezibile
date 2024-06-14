@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-I'm xiyueyezibile ([21](https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7813f145259151a2a73c7) y.o) ! :sunglasses:
+I'm xiyueyezibile ([19](https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7813f145259151a2a73c7) y.o) ! :sunglasses:
 
-I'd like to do project that has relation to anime. :ghost:
+I'd like to do project that has relation to frontend. :ghost:
 
 :page_with_curl: I'm currently learning:
 <br><br>
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue?style=for-the-badge&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React?style=for-the-badge&logo=Flutter&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript?style=for-the-badge&logo=godot-engine)
+![Vite](https://img.shields.io/badge/Vite?style=for-the-badge&logo=rust&logoColor=white)
 
 :star: Here are some projects that I'm working on:
 - [DepSpy](https://github.com/DepSpy/depspy)
