@@ -14,6 +14,10 @@ I'd like to do project that has relation to frontend. :ghost:
 :star: Here are some projects that I'm working on:
 - [DepSpy](https://github.com/DepSpy/depspy)
 
+* 实习经历
+  * 深迈科技 2022.04 - 至今 前端开发实习生
+    * 负责官网web、h5以及小程序端开发
+
 <!-- <details> -->
 <!-- <summary>:trophy: Github Stats</summary> -->
 <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=xiyueyezibile">
@@ -24,13 +28,11 @@ I'd like to do project that has relation to frontend. :ghost:
 
 
 
-</details>
-
-<details>
-
-
 
 
 Feel free to contact me :yum:
 <br><br>
 * [Juejin](https://juejin.cn/user/2159893581924631)
+* QQ: 2859439384
+* Email: 2859439384@qq.com
+* Phone: 13638350628
