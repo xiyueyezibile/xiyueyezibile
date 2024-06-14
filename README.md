@@ -6,10 +6,10 @@ I'd like to do project that has relation to frontend. :ghost:
 
 :page_with_curl: I'm currently learning:
 <br><br>
-![Vue](https://img.shields.io/badge/Vue?style=for-the-badge&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/React?style=for-the-badge&logo=Flutter&logoColor=white)
-![Typescript](https://img.shields.io/badge/Typescript?style=for-the-badge&logo=godot-engine)
-![Vite](https://img.shields.io/badge/Vite?style=for-the-badge&logo=rust&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue)
+![React](https://img.shields.io/badge/React)
+![Typescript](https://img.shields.io/badge/Typescript)
+![Vite](https://img.shields.io/badge/Vite)
 
 :star: Here are some projects that I'm working on:
 - [DepSpy](https://github.com/DepSpy/depspy)
