@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm xiyueyezibile ([19](https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7813f145259151a2a73c7) y.o) ! :sunglasses:
+I'm xiyueyezibile ([20](https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7813f145259151a2a73c7) y.o) ! :sunglasses:
 
 I'd like to do project that has relation to frontend. :ghost:
 
@@ -15,8 +15,9 @@ I'd like to do project that has relation to frontend. :ghost:
 - [DepSpy](https://github.com/DepSpy/depspy)
 
 ### 实习经历
-  * 深迈科技 前端开发实习生  2024.04 - 至今
-    * 负责官网web、h5以及小程序端开发
+  * 深迈科技 前端开发实习生  2024.04 - 2024.07
+    * 从0到1负责官网web、h5端开发
+  * 小红书安全风控 前端开发实习生 2024.07 - 至今
 
 <!-- <details> -->
 <!-- <summary>:trophy: Github Stats</summary> -->
@@ -34,5 +35,5 @@ Feel free to contact me :yum:
 <br><br>
 * [Juejin](https://juejin.cn/user/2159893581924631)
 * QQ: 2859439384
-* Email: 2859439384@qq.com
+* Email: 13638350628@163.com
 * Phone: 13638350628
