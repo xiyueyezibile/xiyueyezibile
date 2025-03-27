@@ -18,6 +18,7 @@ I'd like to do project that has relation to frontend. :ghost:
   * 深迈科技 前端开发实习生  2024.04 - 2024.07
     * 从0到1负责官网web、h5端开发
   * 小红书安全风控 前端开发实习生 2024.07 - 至今
+    * 负责小红书APP C 端举报、申诉页面，增强用户体验
 
 <!-- <details> -->
 <!-- <summary>:trophy: Github Stats</summary> -->
