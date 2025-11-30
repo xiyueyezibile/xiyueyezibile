@@ -14,13 +14,7 @@ I'd like to do project that has relation to frontend. :ghost:
 :star: Here are some projects that I'm working on:
 - [DepSpy](https://github.com/DepSpy/depspy)
 
-### 实习经历
-  * 深迈科技 前端开发实习生  2024.04 - 2024.07
-    * 从0到1负责官网web、h5端开发
-  * 小红书安全风控 前端开发实习生 2024.07 - 2025.03
-    * 负责小红书APP C 端举报、申诉页面，增强用户体验
-  * 字节跳动 Meego 前端开发实习生 2025.03 - 2025.08
-    * 负责 Meego 计划表埋点以及性能优化
+
 
 <!-- <details> -->
 <!-- <summary>:trophy: Github Stats</summary> -->
